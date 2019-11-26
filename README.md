@@ -1,4 +1,2 @@
 # GOLS
-We compare Gradient-Only Line Searches that are Inexact to Probabilistic Line searches (Mahsereci and Hennig, 2017, https://arxiv.org/pdf/1502.02846.pdf) in determining step sizes for neural networks using dynamic mini-batch sub-sampling.
-Based on the paper "Gradient-only line searches: An Alternative to Probabilistic Line Searches" by Kafka and Wilke, 2019.
-https://arxiv.org/abs/1903.09383
+A collection of code produced during the development of Gradient-Only Line Searches (GOLS). GOLS can be used to determine learning rates of training algoirthms in dynamic mini-batch sub-sampled loss functions, such as commonly used in neural network training.  
